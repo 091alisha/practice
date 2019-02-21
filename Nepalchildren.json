@@ -1,0 +1,356 @@
+        {
+ "name": "Nepal",
+ "children": [
+  {
+   "name": "PIN 1",
+   "children": [
+    {
+     "name": "Bhojpur",
+     "children": [
+      {"name": "Shadanada MCP","size": 3324},
+      {"name":"Arun RM","size": 2314},
+      {"name": "PauwaDungama RM","size":4411},
+      {"name":"Salpasilichho RM","size":3321},
+      {"name":"Aamchok RM", "size":3321},
+      {"name":"HatuwaGadhi RM", "size": 3938},
+      {"name": "Tyamke Maiyum RM", "size": 3812},
+      {"name": "Ram Prasad Rai RM", "size": 6714},
+      {"name": "Ram Prasad Rai RM", "size": 743},
+     ]
+    },
+    {
+     "name": "Dhankuta",
+     "children": [
+      {"name": "Pakhribas MCP", "size": 3534},
+      {"name": "Dhankuta MCP", "size": 5731},
+      {"name": "Mahalaxmi Mcp", "size": 7840},
+      {"name": "SanguriGadhi MCP", "size": 5914},
+      {"name": "Khalsa Chhintaag RM", "size": 3416},
+      {"name": "Chhathat Jorpati RM", "size": 5914},
+      {"name": "Chaubise RM", "size": 3416},
+     ]
+    },
+    {
+     "name": "Ilam",
+     "children": [
+      {"Ilam MCP", "size": 2233},
+      {"name": "Deumai MCP", "size": 3534},
+      {"name": "Mai MCP", "size": 5731},
+      {"name": "Suryodaya MCP", "size": 7840},
+      {"name": "Phakapholthum RM", "size": 5914},
+      {"name": "Chulachuli RM", "size": 3416},
+      {"name": "Mai Jogmai RM", "size": 5914},
+      {"name": "Mandsebung RM", "size": 3416},
+      {"name": "Rong RM", "size": 5914},
+      {"name": "Sandakpur RM", "size": 3416}
+     ]
+    },
+    {
+     "name": "Jhapa",
+     "children": [
+      {"name": "MechiNagar", "size": 3534},
+      {"name": "Damak MCP", "size": 5731},
+      {"name": "Kankai MCP", "size": 7840},
+      {"name": "Bhadarapur MCP", "size": 5914},
+      {"name": "Arjundhara MCP", "size": 3416},
+      {"name": "ShivaSataxi MCP", "size": 5914},
+      {"name": "Gauradaha MCP", "size": 3416},
+      {"name": "Birtamod MCP": 5914},
+      {"name": "Kamal RM", "size": 3416},
+      {"name": "Gauriganji RM", "size": 5914},
+      {"name": "Barhadashi RM", "size": 3416},
+      {"name": "Jhapa RM", "size": 5914},
+      {"name": "BuddaShanti RM", "size": 3416},
+      {"name": "Haldibari RM": 5914},
+      {"name": "Kanchankawal RM", "size": 3416},
+     ]
+    },
+    {
+     "name": "Khotang",
+     "children": [  
+      {"name": "Halesi Tuwachung MCp", "size": 3534},
+      {"name": "Rupakot Majhuwagadhi MCP", "size": 5731},
+      {"name": "Aiselukharka RM", "size": 7840},
+      {"name": "Lamidanda RM", "size": 5914},
+      {"name": "Jantadhunga", "size": 3416},
+     ]
+    },
+    {
+     "name": "Morang",
+     "children": [ 
+      {"name": "Birtanagar SMCP", "size": 3534},
+      {"name": "Belbari MCP", "size": 5731},
+      {"name": "Letang MCP", "size": 7840},
+      {"name": "Pathari_Sanishchare MCP", "size": 5914},
+      {"name": "Rangeli MCP", "size": 3416},
+      {"name": "Ratuwami MCP", "size": 3534},
+      {"name": "Sunbarshi MCP", "size": 5731},
+      {"name": "Urlabari MCP", "size": 7840},
+      {"name": "SundarHaraincha MCP", "size": 5914},
+      {"name": "BudhiGanga RM", "size": 3416},
+      {"name": "Dhanpalthan RM", "size": 3534},
+      {"name": "Gramthan RM", "size": 5731},
+      {"name": "Jahada RM", "size": 7840},
+      {"name": "Kanepokhari RM", "size": 5914},
+      {"name": "Katahari RM", "size": 3416},
+      {"name": "Kerabari RM", "size": 5914},
+      {"name": "MiKlajung RM", "size": 3416},
+     ]
+    },
+    {
+     "name": "Okhaldhunga",
+     "children": [ 
+      {"name": "Siddicharan MCP", "size": 3534},
+      {"name": "Khiji Damba RM", "size": 5731},
+      {"name": "Champadevi RM", "size": 7840},
+      {"name": "Chisankhugadhi RM", "size": 5914},
+      {"name": "Manebhanjhan RM", "size": 3416},
+      {"name": "Molung RM", "size": 3534},
+      {"name": "Lekhu RM", "size": 5731},
+      {"name": "Sunkhoshi RM", "size": 7840},
+     ]
+    },
+    {
+     "name": "Panchthar",
+     "children": [ 
+      {"name": "Phidim MCP", "size": 3534},
+      {"name": "Phalalung RM", "size": 5731},
+      {"name": "Palgunanda RM", "size": 7840},
+      {"name": "Hilihang RM", "size": 5914},
+      {"name": "Kumayekh RM", "size": 3416},
+      {"name": "Miklajung RM", "size": 3534},
+      {"name": "Tambeba RM", "size": 5731},
+      {"name": "Yengbarak RM", "size": 7840},
+     ]
+    },
+    {
+     "name": "Sankuwasava",
+     "children": [ 
+      {"name": "Chainpur MCP", "size": 3534},
+      {"name": "Dharmadevi MCP", "size": 5731},
+      {"name": "Khadbari MCP", "size": 7840},
+      {"name": "Madi MCP", "size": 5914},
+      {"name": "PanchaKhapan MCP", "size": 3416},
+      {"name": "Bhotkhola RM", "size": 3534},
+      {"name": "Chichila RM", "size": 5731},
+      {"name": "Makalu RM", "size": 7840},
+      {"name": "Savapokhari RM", "size": 5914},
+      {"name": " Silingchaung RM", "size": 3416},
+     ]
+    },
+    {
+     "name": "Sulukhumbu",
+     "children": [
+      {"name": "SoluDudhakund MCP", "size": 3534},
+      {"name": "DuDhakoshi RM", "size": 5731},
+      {"name": "Khumbu PasangLhamu RM", "size": 7840},
+      {"name": "Dudhakaushika RM", "size": 5914},
+      {"name": "Necha Salyan RM", "size": 3416},
+      {"name": "Meha Kulung RM", "size": 3534},
+      {"name": "Likhu Pike RM", "size": 5731},
+      {"name": "Sotang RM", "size": 7840},
+     ]
+    },
+    {
+     "name": "Sankuwasava",
+     "children": [ 
+      {"name": "Itahari SMCP", "size": 3534},
+      {"name": "Dharan SMCP", "size": 5731},
+      {"name": "Inaruwa MCP", "size": 7840},
+      {"name": "Duhabi MCP", "size": 5914},
+      {"name": "Ramdhuni MCP", "size": 3416},
+      {"name": "Baraha MCP", "size": 3534},
+      {"name": "Dewangunji RM", "size": 5731},
+      {"name": "Koshi RM", "size": 7840},
+      {"name": "Gadhi RM", "size": 5914},
+      {"name": " Barju RM", "size": 3416},
+      {"name": "Bhokraha RM", "size": 5914},
+      {"name": " Harinagar RM", "size": 3416},
+     ]
+    },
+    {
+     "name": "Udayapur",
+     "children": [ 
+      {"name": "Katari MCP", "size": 3534},
+      {"name": "ChaudandiGadhi MCP", "size": 5731},
+      {"name": "Triyuga MCP", "size": 7840},
+      {"name": "Belaka MCP", "size": 5914},
+      {"name": "Udayapur RM", "size": 3416},
+      {"name": "Tapli RM", "size": 3534},
+      {"name": "Rautamai RM", "size": 5731},
+      {"name": "Sunkoshi RM", "size": 7840},
+      {"name": "Gadhi RM", "size": 5914},
+      {"name": " Barju RM", "size": 3416},
+      {"name": "Bhokraha RM", "size": 5914},
+      {"name": " Harinagar RM", "size": 3416},
+     ]
+    }
+       ]
+  },
+    
+  {
+   "name": "Pardesh No. 2",
+   "children": [
+    {
+     "name": "Saptari",
+     "children": [  
+         
+      {"name": "Rajbiraj MCP","size": 3324},
+      {"name":"Kanchanrup MRCP","size": 2314},
+      {"name": "Dakneshwori MCP","size":4411},
+      {"name":"BodeBarsain MCP","size":3321},
+      {"name":"Khadak MCP", "size":3321},
+      {"name":"Shambhunath MCP", "size": 3938},
+      {"name": "Surunga MCP", "size": 3812},
+      {"name": "HanumanNagar Kankalini MCP", "size": 6714},
+      {"name": "Krishna Sawaran RM", "size": 743},
+       {"name": "Chinnamasta RM","size": 3324},
+      {"name":"Mahadeva RM","size": 2314},
+      {"name": "Saptkoshi RM","size":4411},
+      {"name":"Tirhut RM","size":3321},
+      {"name":"Tilathi Koiladi RM", "size":3321},
+      {"name":"Rupani RM", "size": 3938},
+      {"name": "Belhi Chapani RM", "size": 3812},
+      {"name": "Bishnupura RM", "size": 6714},
+      ]
+    },
+    {
+     "name": "Parsa",
+     "children": [ 
+      {"name": "Birgunu SMCP", "size": 3534},
+      {"name": "Pokhariya MCP", "size": 5731},
+      {"name": "Subarnapur RM", "size": 7840},
+      {"name": "Jagarnathapur RM", "size": 5914},
+      {"name": "Chhipahar Mai RM", "size": 3416},
+      {"name": "Pakaha Mainpur RM", "size": 3534},
+      {"name": "Bindabasini RM", "size": 5731},
+      {"name": "Bahudar RM", "size": 7840},
+      {"name": "Belawa RM", "size": 5914},
+      {"name": "Parsa Gadhi RM", "size": 3416},
+      {"name": "Sakhuwa Prasouni RM", "size": 5914},
+      {"name": " Paterwa Sugauli RM", "size": 3416},
+      ]
+    },
+    {
+         
+     "name": "Bara",
+     "children": [  
+       
+      {"name": "Kalaiya S-MCP","size": 3324},
+      {"name":"Jitpur Simara  S-MRCP","size": 2314},
+      {"name": "Kolhabi MCP","size":4411},
+      {"name":"Nijgadha MCP","size":3321},
+      {"name":"Maha Gahadimai MCP", "size":3321},
+      {"name":"Simraun Gadh MCP", "size": 3938},
+      {"name": "Adarsha Kotwal RM", "size": 3812},
+      {"name": "Karaiya mai RM", "size": 6714},
+      {"name": "Devtaal RM", "size": 743},
+      {"name": "PachaRouta RM","size": 3324},
+      {"name":"Parawanipur RM","size": 2314},
+      {"name": "Prasouni RM","size":4411},
+      {"name":"Pheta RM","size":3321},
+      {"name":"Bara Gadhi RM", "size":3321},
+      {"name":"Subarna RM", "size": 3938},
+      {"name": "Belhi Chapani RM", "size": 3812},
+      {"name": "Bishnupura RM", "size": 6714},
+      ]
+    },
+    {
+      
+     "name": "Siraha",
+     "children": [  
+       
+      {"name": "Lahan MCP","size": 3324},
+      {"name":"Dhandadhi mai MCP","size": 2314},
+      {"name": " Siraha MCP","size":4411},
+      {"name":"Golbazaar MCP","size":3321},
+      {"name":"Mirchaiya MCP", "size":3321},
+      {"name":"Kalyanpur MCP", "size": 3938},
+      {"name": "Bhagawanpur RM", "size": 3812},
+      {"name": "Aurahi RM", "size": 6714},
+      {"name": "Bishnupur RM", "size": 743},
+      {"name": "Sukhipur RM","size": 3324},
+      {"name":"Karjanha RM","size": 2314},
+      {"name": "Bariyarpatti RM","size":4411},
+      {"name":"Laxmipur Patari RM","size":3321},
+      {"name":"Naraha RM", "size":3321},
+      {"name":"Sakhuwanankarkatti RM", "size": 3938},
+      {"name": "Arnama RM", "size": 3812},
+      {"name": "Nawarajpur RM", "size": 6714},
+     ]
+    },
+    {
+      
+     "name": "Dhanusha",
+     "children": [  
+   
+      {"name": "Janakpur MCP","size": 3324},
+      {"name":"Chhireshwarnath MCP","size": 2314},
+      {"name": "Ganeshman MCP","size":4411},
+      {"name":"Dhanusadham MCP","size":3321},
+      {"name":"Nagaraen MCP", "size":3321},
+      {"name":"Bidesh MCP", "size": 3938},
+      {"name": "Mithila MCP", "size": 3812},
+      {"name": "Shahida Nagar MCP", "size": 6714},
+      {"name": "Sabaila MCP", "size": 743},
+      {"name": "Kamala Siddidatri RM","size": 3324},
+      {"name":"Janak Nandini RM","size": 2314},
+      {"name": "Bateshwor RM","size":4411},
+      {"name":"Mithila Bihar RM","size":3321},
+      {"name":" Mukhiyapatti Musaharmiya RM", "size":3321},
+      {"name":"Laxminiya RM", "size": 3938},
+      {"name": "Hanspur RM", "size": 3812},
+      {"name": "Aaurahi RM", "size": 6714},
+  
+     ]
+    },
+    {
+     "name": "Rautahad",
+     "children": [  
+   
+      {"name": "Chandrapur MCP","size": 3324},
+      {"name":"Garuda MCP","size": 2314},
+      {"name": "Gaur MCP","size":4411},
+      {"name":"BoudhiMai RM","size":3321},
+      {"name":"Brindaban RM", "size":3321},
+      {"name":"Devahi RM", "size": 3938},
+      {"name": "Durga Bhagawati RM", "size": 3812},
+      {"name": "GadhiMai RM", "size": 6714},
+      {"name": "Gurjara RM", "size": 743},
+      {"name": "Katahariya RM","size": 3324},
+      {"name":" Madhav Narayan RM","size": 2314},
+      {"name": "Moulapur RM","size":4411},
+      {"name":"Phatuwa Bijayapur RM","size":3321},
+      {"name":" Ishnath RM", "size":3321},
+      {"name":"Paroha RM", "size": 3938},
+      {"name": "Rajpur RM", "size": 3812},
+  
+     ]
+    },
+    {
+     "name": "Mahottari",
+     "children": [  
+         
+      {"name": "Jaleshwor MCP","size": 3324},
+      {"name":"Bardibas MCP","size": 2314},
+      {"name": "Gaushala MCP","size":4411},
+      {"name":"Ekadara RM","size":3321},
+      {"name":"Sonama RM", "size":3321},
+      {"name":"Samsi RM", "size": 3938},
+      {"name": "Loharpatti RM", "size": 3812},
+      {"name": "RamGopalpur RM", "size": 6714},
+      {"name": " Mahottari RM", "size": 743},
+      {"name": "Manara RM","size": 3324},
+      {"name":" Matihani RM","size": 2314},
+      {"name": "Bhangara RM","size":4411},
+      {"name":" Balawa RM","size":3321},
+      {"name":" Pipara RM", "size":3321},
+      {"name":"Aaurahi RM", "size": 3938},
+   ]
+  }
+       ]
+}
+       ]
+  }
+     ]
+        }
